@@ -1,0 +1,6 @@
+lbox = Listbox(top,selectmode=SINGLE)
+# lbox.insert(0,"Undo")
+# lbox.insert(1,"Cut")
+# lbox.insert(2,"Copy")
+# lbox.insert(3,"Paste")
+# lbox.pack()
